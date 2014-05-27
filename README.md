@@ -19,7 +19,8 @@ To use the grid, apply the basic classes needed for your layout:
 
 Then define the position:
 
-```.first will stick a grid item to the left, .last to the right.``` (Only apply to the first/last items on each row.)
+```.first will stick a grid item to the left, .last to the right.```
+(Only apply to the first/last items on each row.)
  
 ```.centercol will…., well, you get the idea at this point.```
 
