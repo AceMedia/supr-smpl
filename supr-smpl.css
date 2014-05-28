@@ -2,6 +2,10 @@
 
 /* mobile, default styling & sucky old browser display */
 
+	*, *:before, *:after {
+	  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+	 }
+
 	.onecol, .twocol, .threecol, .fourcol, .fivecol, .sixcol, .sevencol, .eightcol, .ninecol, .tencol, .elevencol, .twelvecol {
 		width: auto;
 		display: block;
